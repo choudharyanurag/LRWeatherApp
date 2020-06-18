@@ -1,0 +1,12 @@
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap\bin\Release\netcoreapp3.1\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap.deps.json
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap\bin\Release\netcoreapp3.1\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap.dll
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap\bin\Release\netcoreapp3.1\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap.pdb
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap\bin\Release\netcoreapp3.1\LoginRadius.WeatherApp.Core.dll
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap\bin\Release\netcoreapp3.1\LoginRadius.WeatherApp.Core.pdb
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap\obj\Release\netcoreapp3.1\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap.csprojAssemblyReference.cache
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap\obj\Release\netcoreapp3.1\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap.AssemblyInfoInputs.cache
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap\obj\Release\netcoreapp3.1\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap.AssemblyInfo.cs
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap\obj\Release\netcoreapp3.1\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap.csproj.CoreCompileInputs.cache
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap\obj\Release\netcoreapp3.1\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap.csproj.CopyComplete
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap\obj\Release\netcoreapp3.1\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap.dll
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap\obj\Release\netcoreapp3.1\LoginRadius.WeatherApp.WeatherProvider.OpenWeatherMap.pdb

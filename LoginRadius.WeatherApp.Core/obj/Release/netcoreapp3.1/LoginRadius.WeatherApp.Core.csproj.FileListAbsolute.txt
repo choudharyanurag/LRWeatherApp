@@ -1,0 +1,9 @@
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.Core\bin\Release\netcoreapp3.1\LoginRadius.WeatherApp.Core.deps.json
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.Core\bin\Release\netcoreapp3.1\LoginRadius.WeatherApp.Core.dll
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.Core\bin\Release\netcoreapp3.1\LoginRadius.WeatherApp.Core.pdb
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.Core\obj\Release\netcoreapp3.1\LoginRadius.WeatherApp.Core.csprojAssemblyReference.cache
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.Core\obj\Release\netcoreapp3.1\LoginRadius.WeatherApp.Core.AssemblyInfoInputs.cache
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.Core\obj\Release\netcoreapp3.1\LoginRadius.WeatherApp.Core.AssemblyInfo.cs
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.Core\obj\Release\netcoreapp3.1\LoginRadius.WeatherApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.Core\obj\Release\netcoreapp3.1\LoginRadius.WeatherApp.Core.dll
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp.Core\obj\Release\netcoreapp3.1\LoginRadius.WeatherApp.Core.pdb

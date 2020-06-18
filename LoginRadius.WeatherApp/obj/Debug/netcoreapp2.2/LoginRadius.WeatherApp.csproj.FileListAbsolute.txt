@@ -1,0 +1,3 @@
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp\obj\Debug\netcoreapp2.2\LoginRadius.WeatherApp.csprojAssemblyReference.cache
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp\obj\Debug\netcoreapp2.2\LoginRadius.WeatherApp.AssemblyInfoInputs.cache
+C:\Users\anura\source\repos\LoginRadius.WeatherApp\LoginRadius.WeatherApp\obj\Debug\netcoreapp2.2\LoginRadius.WeatherApp.AssemblyInfo.cs
